@@ -6,8 +6,8 @@
 4. `git add .` then `git commit -m "message"` then  `git push` to push your changes onto the repository
 
 ## Python Libraries
-1. pip install discord
-2. pip install random
-3. pip install requests
-4. pip install flask
-5. pip install bs4
+1. 'pip install discord'
+2. 'pip install random'
+3. 'pip install requests'
+4. 'pip install flask'
+5. 'pip install bs4'
